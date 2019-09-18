@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"can",
+				"canvas.height"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"dr",
+				"drawDot"
+			],
+			[
+				"Ma",
+				"Math"
+			],
+			[
+				"onmouse",
+				"onmouseup〔function〕"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"off",
+				"offset〔function〕"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hid",
+				"hide〔function〕"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"app",
+				"append〔function〕"
+			],
+			[
+				"sl",
+				"slice〔function〕"
+			],
+			[
+				"fa",
+				"fadeToggle〔function〕"
+			],
+			[
+				"slid",
+				"slideDown〔function〕"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"cl",
+				"closest〔function〕"
+			],
+			[
+				"h",
+				"hide〔function〕"
+			],
+			[
+				"max",
+				"max-width: 〔property〕"
+			],
+			[
+				"wr",
+				"wrapInner〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"slide",
+				"slideUp〔function〕"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"fil",
+				"filter〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"coor",
+				"color\t = 'inherit' Style CSS"
+			],
+			[
+				"onkey",
+				"onkeypress〔function〕"
+			],
+			[
+				"page",
+				"pageYOffset〔variable〕"
+			],
+			[
+				"getEl",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"append",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"crea",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"creat",
+				"createElement〔function〕"
+			],
+			[
+				"css",
+				"cssText〔variable〕"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"getEle",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"dy",
+				"days"
+			],
+			[
+				"getD",
+				"getDay\t(): int Date"
+			],
+			[
+				"Da",
+				"Date\t(): Date Date"
+			],
+			[
+				"getM",
+				"getMonth\t(): int Date"
+			],
+			[
+				"getMi",
+				"getMinutes〔function〕"
+			],
+			[
+				"getE",
+				"description-getElementById\tDocument"
+			],
+			[
+				"set",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"he",
+				"height\t = 'inherit' Style CSS"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"di",
+				"display〔variable〕"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"dia",
+				"display\t = 'table-column-group' Style CSS"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"O",
+				"Object_keys\t( o: Object ): string[] Object"
+			],
+			[
+				"to",
+				"toLocaleLowerCase〔function〕"
+			],
+			[
+				"pro",
+				"prompt\t( message?: DOMString, default?: DOMString ): DOMString Window"
+			],
+			[
+				"loca",
+				"localStorage\t: Storage Window"
+			],
+			[
+				"co",
+				"content\t = '' Style CSS"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"el",
+				"else_if"
+			],
+			[
+				"par",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"pars",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"getCla",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"setI",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"alert",
+				"alert〔function〕"
+			],
+			[
+				"time",
+				"timeInSec"
+			],
+			[
+				"Math",
+				"Math_round\t( x: number ): number Math"
+			],
+			[
+				"no",
+				"now\t(): Date Date"
+			],
+			[
+				"onc",
+				"onclick〔function〕"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"onm",
+				"onmousewheel\t: EventHandler Document"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"onmou",
+				"onmousemove〔function〕"
+			],
+			[
+				"ge",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"numG",
+				"numG"
+			],
+			[
+				"gt",
+				"getElementById〔function〕"
+			],
+			[
+				"l",
+				"length\t: int Array"
+			],
+			[
+				"pa",
+				"pageYOffset〔variable〕"
+			],
+			[
+				"scr",
+				"scroll〔function〕"
+			],
+			[
+				"gen",
+				"getElementById〔function〕"
+			],
+			[
+				"on",
+				"onkeydown〔function〕"
+			],
+			[
+				"onk",
+				"onkeypress〔function〕"
+			],
+			[
+				"setTi",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"event",
+				"eventPhase\t: unsigned short Event"
+			],
+			[
+				"g",
+				"getElementById〔function〕"
+			],
+			[
+				"b",
+				"background\t = 'initial' Style CSS"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"re",
+				"resault"
+			],
+			[
+				"M",
+				"Math"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"stal",
+				"style_paddingLeft\t = '' Style CSS"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"ma",
+				"margin\t = 'inherit' Style CSS"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"star",
+				"startKomm"
+			],
+			[
+				"rep",
+				"replaceWith〔function〕"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"valu",
+				"value=\"Готово"
+			],
+			[
+				"wid",
+				"width\t = 'initial' Style CSS"
+			],
+			[
+				"br",
+				"br><br"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"commen",
+				"commentBody"
+			],
+			[
+				"pre",
+				"preventDefault\t(): void Event"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"auto",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lev",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"le",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"lever",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"liver",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"livere",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"liverr",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"inse",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"liveRe",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lover",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"liverelo",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"instal package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sky woker/Desktop/GemaCanvas/style.css",
+		"/C/Users/Sky woker/Desktop/АрсенCanvas/style.css",
+		"/C/Users/Sky woker/Desktop/АрсенCanvas/index.html",
+		"/C/Users/Sky woker/Desktop/АрсенCanvas/js.js",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/JS.js",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/css.css",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/index.html",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/canvas/js.js",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/canvas/canvas.html",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/canvas/c.css",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/Новая папка/style.css",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/Новая папка/index.html",
+		"/C/Users/Sky woker/Desktop/js.js",
+		"/C/Users/Sky woker/Desktop/index.html",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/Новая папка/js.js",
+		"/C/Users/Sky woker/Desktop/Новая папка (4)/index.html",
+		"/C/Users/Sky woker/Desktop/Новая папка (4)/js/custom.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/1.DOM/01.html",
+		"/C/Users/Sky woker/Downloads/my.js",
+		"/C/Users/Sky woker/Downloads/index.html",
+		"/C/Users/Sky woker/Downloads/style.css",
+		"/C/Users/Sky woker/Desktop/Новая папка (2)/koment.html",
+		"/C/Users/Sky woker/Desktop/jS/2.Комент/js/comments.js",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/iwantcode/css/main.css",
+		"/C/Users/Sky woker/Desktop/СайтДляJQ/iwantcode/index.html",
+		"/C/Users/Sky woker/Desktop/jS/2.Комент/COMMENT-222.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/1.DOM/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/1.DOM/02.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Черновик/0333.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/черновик/030.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/Урок6 Вывод текста на страницу/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/функции массивов/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/1.функции,аргументы/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2.Способы обьявления функции/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/12.flag/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/11.Врезать от и до substr, substring, slice/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/11.Врезать от и до/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/10.Поиск и замена replace/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Черновик/0111.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Черновик/0222.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Система комментариев/111.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Система комментариев/333.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/JavaScript/Система комментариев/222.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/2.Пронумеровать параграфы/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/2.Пронумеровать параграфы/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/2.Пронумеровать параграфы/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/1.Все h1 красным цветом/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/1.Все h1 красным цветом/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/Урок14 Элементы и Классы/03.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/Задачи по функциям/1.Все h1 красным цветом/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/Урок14 Элементы и Классы/01.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/Урок14 Элементы и Классы/02.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/3.Стрелочные функции/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Делить число пока не станет 50/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Делить число пока не станет 50/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Делить число пока не станет 50/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/14.Вывести выходные жирным/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Вывести курсивом/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Вывести курсивом/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/15.Вывести курсивом/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/14.Вывести выходные жирным/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/14.Вывести выходные жирным/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/13.Создать строку из массива/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/13.Создать строку из массива/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/13.Создать строку из массива/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/1/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/12.Вывести из массива числа нач с 1-2-5/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/12.Вывести из массива числа нач с 1-2-5/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/12.Вывести из массива числа нач с 1-2-5/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/11.Вывести из массива 4/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/11.Вывести из массива 4/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/11.Вывести из массива 4/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/10.Найти сумму полож элемен/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/10.Найти сумму полож элемен/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/10.Найти сумму полож элемен/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/9.Эл массива больше 3/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/9.Эл массива больше 3/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/9.Эл массива больше 3/1.html",
+		"/C/Users/Sky woker/Desktop/Bootstrap/4-index/maga.html",
+		"/C/Users/Sky woker/Desktop/Bootstrap/4-index/css/Maga.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/8/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/8/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/8/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/Вывести из массива с for/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/Вывести из массива с for/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/Вывести из массива с for/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/1.Вывести макс число/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/черновик/010.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/2/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/1.Пропущенный эл массива/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/7. Циклы for.....while/Задачи с for....while/2.Сумма чисел/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/7. Циклы for.....while/Задачи с for....while/1.Вывесьт числа/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/5.Стаж работы/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/4.Год рождения/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/3.Логин и пароль/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/черновик/020.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/2.Номер подьезда/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/1.Вывести макс число/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/6.Оператор Условия if/Задачи с if/1.Вывести макс число/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/3.Стрелочные функции/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/3.Стрелочные функции/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2.Способы обьявления функции/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2.Способы обьявления функции/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/9.Функции,Аргументы/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/2/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/2/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/черновик/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/черновик/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/3.push,unshift Добавлнения в начало и конец/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/черновик/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/1.Чистим массив/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/1.Чистим массив/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/9.2 Задачи по массива/1.Чистим массив/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/6.sort Сортировка/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/6.sort Сортировка/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/6.sort Сортировка/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/5.slice Запись в массивы в новый/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/5.slice Запись в массивы в новый/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/5.slice Запись в массивы в новый/1.html",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/2. Методы массивов push, pop, shift/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/4.shift,pop Вывод на экран/3.js",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/4.shift,pop Вывод на экран/2.css",
+		"/C/Users/Sky woker/Desktop/JavaScript/aTrueJS/8.Массивы/Задачи для решения/4.shift,pop Вывод на экран/1.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
